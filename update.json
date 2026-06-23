@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
-  "release_notes_url": "https://github.com/uchihast/pyNuD-installer/releases/tag/v2.6.0",
-  "macos_pkg_url": "https://github.com/uchihast/pyNuD-installer/releases/download/v2.6.0/pyNuD-2.6.0_pkg_installer.pkg",
-  "macos_pkg_sha256": "8ce2000d5f851c9d3f5a610f348db37b8ae11fdfc3e3fcef7799db1b7ec97293",
-  "windows_setup_url": "https://github.com/uchihast/pyNuD-installer/releases/download/v2.6.0/pyNuD-v2_6_0-setup-win64.exe",
-  "windows_setup_sha256": "1c28f42a21b6bfb08d11ff83bccb0cd8f8e6f02ecef91c20152275edd7cc601f"
+  "version": "2.7.0",
+  "release_notes_url": "https://github.com/uchihast/pyNuD-installer/releases/tag/v2.7.0",
+  "macos_pkg_url": "https://github.com/uchihast/pyNuD-installer/releases/download/v2.7.0/pyNuD-2.7.0_pkg_installer.pkg",
+  "macos_pkg_sha256": "b3a8e018bc6ec2f434004537aea33f3d3741dd6b30c327f69c58917e4f922bca",
+  "windows_setup_url": "https://github.com/uchihast/pyNuD-installer/releases/download/v2.7.0/pyNuD-v2_7_0-setup-win64.exe",
+  "windows_setup_sha256": "d68d56859f2daeb00d19acb1045001bfac25ad10f6144e04274a903536b5d0d4"
 }
